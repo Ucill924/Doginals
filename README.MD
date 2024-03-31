@@ -217,7 +217,7 @@ Your `.env file` should look like:
 NODE_RPC_URL=http://127.0.0.1:22555
 NODE_RPC_USER=ape
 NODE_RPC_PASS=zord
-TESTNET=false
+TESTNET=yes
 ```
 
 ### I'm getting "insufficient priority" errors when minting
