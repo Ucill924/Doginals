@@ -211,7 +211,7 @@ server=1
 
 Make sure `port` is not set to the same number as `rpcport`. Also make sure `rpcauth` is not set.
 
-Your `.env file` should look like:
+Your `.env file` should look like:e
 
 ```
 NODE_RPC_URL=http://127.0.0.1:22555
